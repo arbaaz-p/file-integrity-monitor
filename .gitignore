@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+baseline.json
+report.json
